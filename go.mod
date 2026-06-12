@@ -1,3 +1,3 @@
-module github.com/user/plants
+module plants
 
 go 1.22
